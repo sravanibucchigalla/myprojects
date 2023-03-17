@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-Footer-Section {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.Ecommerce-Website-Footer-Section-img {
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.icon-font {
+    color: #5a7184;
+    font-size: 30px;
+}
+
+.icons {
+    background-color: #152c3e;
+    border-radius: 40px;
+    padding: 20px;
+    width: 70px;
+}
+
+.Ecommerce-Website-Footer-Section-para {
+    color: #5a7184;
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.Ecommerce-Website-Footer-Section-heading {
+    color: #5a7184;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 800;
+}
+
+.Ecommerce-Website-Footer-Section-parabottom {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.hr-line {
+    border: 1px solid #5a7184;
+    width: 90%;
+}

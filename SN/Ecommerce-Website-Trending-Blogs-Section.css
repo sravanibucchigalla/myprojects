@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.Ecommerce-Website-Trending-Blogs-Section{
+    background-color:#FAF9F6;
+    height:100%;
+    width:100%
+}
+.Ecommerce-Website-Trending-Blogs-Section-mainheading{
+    color:#183b56;
+    padding-top:30px;
+    margin-left:20px;
+    margin-bottom:20px;
+    font-weight:bold;
+}
+.Ecommerce-Website-Trending-Blogs-Section1{
+    background-color:white;
+    border-radius:10px;
+}
+.Ecommerce-Website-Trending-Blogs-Section-image{
+    height:60%;
+    width:100%;
+    margin-bottom:10px;
+}
+.Ecommerce-Website-Trending-Blogs-Section-heading1{
+    color:#959ead;
+    padding-bottom:5px;
+    margin-left:20px;
+}
+.Ecommerce-Website-Trending-Blogs-Section-heading2{
+    color:#183b56;
+    margin-left:20px;
+    padding-bottom:5px;
+}
+.Ecommerce-Website-Trending-Blogs-Section-para{
+    color:#959ead;
+    margin-left:20px;
+    padding-bottom:5px;
+    font-size:25px;
+}
+.Ecommerce-Website-Trending-Blogs-Section-link{
+    color:#ff9f00;
+    margin-left:20px;
+    font-weight:bold;
+}

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.Ecommerce-Website-Explore-Section{
+    background-color:#f5f7fa;
+    background-size:cover;
+}
+.Ecommerce-Website-Explore-Section-mainheading{
+    color:#183b56;
+    font-size:55px;
+    font-weight:800;
+    font-family:"Roboto";
+    padding-top:30px;
+    padding-bottom:20px;
+}
+.Ecommerce-Website-Explore-Section-card{
+    background-color:white;
+    border-radius:15px;
+}
+.Ecommerce-Website-Explore-Section-card-heading{
+    color:#183b56;
+    font-size:40px;
+    font-family:"Roboto";
+    font-weight:700;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left:15px;
+}
+.Ecommerce-Website-Explore-Section-img-top{
+    border-radius:20px;
+    width:100%;
+    text-align:center;
+}
+.Ecommerce-Website-Explore-Section-name{
+    color:#1f2933;
+    font-family:"Roboto";
+    margin-top:30px;
+    font-size:27px;
+    font-weight:500;
+}
+.Ecommerce-Website-Explore-Section-link{
+    color:#ff9f00;
+    font-size:25px;
+    font-family:"Roboto";
+    font-weight:bold;
+    margin-left:15px;
+}
+.Ecommerce-Website-Explore-Section-img-middle{
+    border-radius:20px;
+    width:90%;
+    margin-bottom:30px;
+    margin-left:10px;
+}
+.Ecommerce-Website-Explore-Section-img-bottom{
+    width:100%;
+    text-align:center;
+}

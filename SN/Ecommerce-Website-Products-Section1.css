@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-Products-Section {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.Ecommerce-Website-Products-Section-main-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: "Roboto";
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.Ecommerce-Website-Products-Section-card1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 40vh;
+    border-radius: 30px;
+}
+
+.Ecommerce-Website-Products-Section-heading {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.Ecommerce-Website-Products-Section-para {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    margin-left: 20px;
+}
+
+.Ecommerce-Website-Products-Section-button {
+    background-color: #ffffff;
+    color: #ff9f00;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.Ecommerce-Website-Products-Section-card2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 40vh;
+    border-radius: 30px;
+}
+
+.Ecommerce-Website-Products-Section-link {
+    color: #ff9f00;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.Ecommerce-Website-Products-Section-button1 {
+    background-color: #ffffff;
+    color: #ff9f00;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}

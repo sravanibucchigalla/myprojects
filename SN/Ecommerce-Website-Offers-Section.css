@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.Ecommerce-Website-Offers-Section{
+    background-image:linear-gradient(to right,#f49541,#dd5d97);
+    background-size:cover;
+    height:100%;
+    width:100vw;
+}
+.Ecommerce-Website-Offers-Section-image1{
+    height:70%;
+    width:80%;
+}
+.Ecommerce-Website-Offers-Section-image2{
+    height:80%;
+    width:90%;
+}
+.Ecommerce-Website-Offers-Section-heading1{
+    font-weight:bold;
+    color:#ad2167;
+    font-family:"Roboto";
+}
+.Ecommerce-Website-Offers-Section-heading2{
+    color:white;
+    padding-bottom:10px;
+}
+.Ecommerce-Website-Offers-Section-image3{
+    height:60%;
+    width:70%;
+    margin-bottom:30px;
+}
